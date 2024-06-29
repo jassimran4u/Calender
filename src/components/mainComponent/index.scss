@@ -1,0 +1,21 @@
+.main-container{
+    display: flex;
+}
+.event{
+    border: 1px solid black;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.hour{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+.calender-container{
+    display: flex;
+
+    .days-container{
+        display: flex;
+    }
+}
